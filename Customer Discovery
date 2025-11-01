@@ -1,0 +1,202 @@
+Customer Discovery
+Drucker’s Five Most Important questions:
+What is our purpose?
+Who are our customers?
+What do our customers value?
+What are our results?
+What is our plan?
+
+2) Customer-centric information gathering
+⦁	  Get to know the customer
+⦁	  Be the customer
+⦁	  Establish a connection with the customer
+⦁	  Develop a timetable with the customer
+
+3) Scope
+  Project scope refers to the defined boundaries, objectives, deliverables, and constraints of a specific project.
+
+Well-Defined Scope provides
+Clarity and focus
+Minimized Risks
+Effective Planning
+Stakeholder Satisfaction
+
+In-Scope- project scope outlines the work that needs to be accomplished
+Out-of-Scope-project scope outlines what is not included in the project.
+
+4) Inputs, Tools, Techniques, and Outputs (ITTO) diagram
+   diagram that illustrates the relationships between inputs, tools, techniques, and outputs for project management processes
+
+5) Challenge framing
+Is the process of defining the focus of the problem to be resolved
+
+6) Challenge scoping
+Is the process of creating a plan that includes organizing and managing the time, people, and other resources required to solve the framed challenge
+
+7) ‘How Might We’ statements- converts a framed challenge into a solvable question
+A good HMW statement generates at least five solutions
+
+8) Trade-off- is the act of giving up one thing in return for another
+
+9) Work streams- is a group of tasks and activities to be completed by a team of assembled workgroups
+
+10) Ideation- is the process of generating ideas around specific aspects of the larger design challenge
+
+Customer Discovery Methods
+
+Journey Mapping- Is the process of documenting the experiences and interactions customers have with a business or an organization
+Makes documenting the customer experience structured and streamlined
+Journey map is composed of:
+⦁	Phases
+⦁	Actions
+⦁	Thoughts
+⦁	Feelings
+⦁	Touchpoints
+⦁	Context
+⦁	Opportunities
+
+Interview- is for stakeholders and customers to share unfiltered ideas, concerns, and thoughts
+Is a quick, easy way to get direct feedback from customers and stakeholders on their current experiences and suggestions for improvement
+⦁	Stakeholder Interview
+⦁	Customer/ Consumer Interview
+
+Shadowing- involves observing the customer while asking questions about their actions
+
+Embodying- entails living the experiences of stakeholders and customers
+
+Current State- refers to the existing condition of a process at a specific point in time
+Key aspects to consider:
+⦁	Technology and Tools
+⦁	Stakeholder Feedback
+⦁	Documentation
+⦁	Availability of Resources
+⦁	Regulatory and Compliance Requirements
+
+Business Analysts
+Collaborates between the business and technology teams of an organization
+Performs a variety of tasks related to elicitation, documentation, and analysis of project requirements
+Defines business needs of an organization
+Gather project requirements from internal and external project stakeholders
+Writes buiness cases to outline what, why, how, and who of the project
+Review project requests to design the work plan
+Creates visual representations of business processes using flowcharts, diagrams, and business maps
+Wireframes visually break down the processes to depict how processes fit into the business flow
+Rely on data-driven metrics to offer insights into business needs
+Solves problems identified in the requirements elicitation phase of the process
+Creates visual representations of the processes using flowcharts, diagrams, and business maps
+Facilitates the UAT phase of the project
+
+Implementation Lifecycle Phases are:
+⦁	Analyze
+⦁	Build
+⦁	Deliver
+⦁	Operate
+
+Application Lifecycle Management (ALM)- use cases as well as release mgmt and change mgmt
+Three development models:
+⦁	Change Set development- uses declarative tools. There is no CLI or a version control system
+⦁	Org development- SF CLI is used to extract metadata from a development environment and to integrate with a version control system (VCS)
+⦁	Package development-different customizations are managed as a separate packages.
+
+Rapid Application Development (RAD)- is an application development model reduces delivery times
+⦁	speed 
+⦁	user strategy
+⦁	prototyping
+No-code and low-code solutions
+
+Opposite of the linear Waterfall method that establishes goals for each dev phase sequentially
+
+Release Management
+After testing is completed and quality benchmarks are met
+The customization can be deployed to production
+Employees and partners need to be trained to understand the changes
+
+
+>Security Health Check
+⦁	Gives visibility into an org’s security settings
+⦁	Allows identifying and fixing these vulnerabilities in security settings
+⦁	Provides a summary score, as well as categorizing security risks into
+High, Medium, Low, and Information categories
+Helps identifying security settings such as Session Settings, Password Policies, Certificate and Key Mgmt, File Upload, Download Security Settings
+Summary score is calculated using a proprietary formula
+Up to five custom baselines can be uploaded and used for comparison
+Lower score indicates settings at a higher risk
+⦁	Excellent- 90% above
+⦁	Very Good- 80=89%
+⦁	Good- 70-79%
+⦁	Poor- 55=69%
+⦁	Very Poor- 54% below
+
+Salesforce Optimizer
+>Optimizer //runs automatically or on a scheduled basis
+Analyzes the org and provides insights, recommendations, and actions related to maintenance, productivity, and adoption
+Scan can take up to 24 hours
+Is a tool that
+⦁	Analyzes the org
+⦁	Provides insights
+⦁	Recommendations
+⦁	Actions related to maintenance
+⦁	Productivity
+⦁	Technical debt which becomes business debt, can be identified in a timely manner and handled properly
+⦁	Adoption
+Entity
+Helps identify cluttered page layouts, inefficient config
+Reports features that are not used or underperforming and provides recommendations to drive usage or increase adoption by maximizing SF capabilities
+
+Org Impact Analysis Report
+Report shows how specific changes in the company’s metadata can affect other org metadata and configuration
+Third-party apps from AppExchange that can be used for org impact analysis, change analysis, org discovery
+
+Entity Relationship Diagram
+Helps stakeholders visualize the objects, fields, relationships
+
+Schema Builder- can be used to understand the relationships among various objects in SF.
+
+Universal Process Notification (UPN)
+Is used to create process map that lists who needs to do what, when, why, and how
+
+Capability Model
+Visually summarizes the capabilities the product, feature, or organization has
+
+SF Customer 360
+Single view of the customer
+
+User Adoption
+
+Long- Term Adoption
+
+SF User Interface Types:
+
+SF Classic UI
+Lightning Experience User Interface
+⦁	Responsive design
+⦁	Fresh look 
+⦁	Feel with newer features
+
+Lightning Experience Adoption
+
+Lightning Usage App provides Lightning Exp adoption metrics based on the usage, activity, and security
+App Launcher| Lighnting Usage
+
+⦁	Daily and monthly active users in Lightning Exp and the SF mobile app
+⦁	Daily and monthly switches to SF Classic
+⦁	Profiles and users that switched to SF Classic
+⦁	Slowest desktop record pages
+⦁	Browsers used to access Lightning Exp and SF mobile app
+⦁	Pages viewed most often in Lightning Exp
+⦁	Number of active users, featurs, and PS licenses
+
+>System Overview for User Interface
+Shows usage and limits
+
+Sales Enablement
+Is a process of education and guidance that gives members of sales team the skills and tools they need to succeed
+
+Tech Debt
+Is the extra work that accrues as a result of taking shortcuts or choosing a quicker and easier solution
+This is accured when speed is prioritized over quality
+In the long run more cost and time 
+
+Future work
+Technical Debt is not necessarily harmful to the org.
+It can become time consuming and require a lot of effort to clean up or address at a later time
